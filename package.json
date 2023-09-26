@@ -1,0 +1,19 @@
+{
+  "name": "0926-devday",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkk2018/0926-devday.git"
+  },
+  "author": "ken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkk2018/0926-devday/issues"
+  },
+  "homepage": "https://github.com/hkk2018/0926-devday#readme"
+}
